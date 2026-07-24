@@ -1,1 +1,5 @@
-"# ReClonet-Realeses" 
+# ReClonet VPN
+
+Официальные сборки приложения ReClonet.
+
+Скачать последнюю версию можно в разделе Releases.
